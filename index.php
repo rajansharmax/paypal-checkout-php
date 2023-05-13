@@ -165,7 +165,6 @@
 
         }
     </script>
-    <!-- Paypal JavaScript library -->
 </body>
 
 </html>
