@@ -27,7 +27,7 @@ Welcome to the **PayPal Express Checkout for PHP** project! This library provide
 
 ### Installation
 
-Install the library using [Composer](https://getcomposer.org/):
+Install the library using [Github]:
 
 ```bash
-composer require your-username/paypal-express-checkout
+[https://github.com/rajansharmaa/paypal-checkout-php.git]
